@@ -72,7 +72,7 @@ begin clrscr;
                 if menu >9 then
                     begin
                         writeln('=-=-=-=-=-=-=-=-=-=-=-=-=');
-                        writeln('maaf bang/kak menu cuma 5 buah >__<');
+                        writeln('maaf bang/kak menu cuma 9 buah >__<');
                         writeln('terima kasih sudah datang ');
                     end;
 end.
